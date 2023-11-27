@@ -1,6 +1,6 @@
 **Ricky Miura** (rmiura@ucsd.edu)  
-Section B12: Capturing Long-Range Interactions via Graph Neural Networks  
-Mentor: Gal Mishne, Yusu Wang  
+Section B12: Capturing Long-Range Interactions via Graph Neural Networks(GNNs)    
+Mentors: Gal Mishne, Yusu Wang  
   
 **1. What is the most interesting topic covered in your domain this quarter?**  
 The most interesting topic covered in my domain this quarter were different the different tasks involved with graph structured data such as node classification and graph classification.  
