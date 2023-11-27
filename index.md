@@ -1,1 +1,1 @@
-**Ricky Miura**
+**Ricky Miura** (rmiura@ucsd.edu)
